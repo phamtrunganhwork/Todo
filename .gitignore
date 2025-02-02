@@ -1,3 +1,4 @@
 # Ignore Pipfile and Pipfile.log
 Pipfile
 Pipfile.log
+*.txt
