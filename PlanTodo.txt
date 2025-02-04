@@ -6,3 +6,6 @@
 2. Show list
 3. Remove items
 4. Check items
+
+
+Tech: Next.js
