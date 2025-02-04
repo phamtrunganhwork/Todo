@@ -1,3 +1,3 @@
 # Todo
 
-Basic todo app using react and django
+Basic todo app using Nextjs
