@@ -1,13 +1,10 @@
 
-import { AppBar, Toolbar } from "@mui/material"
-import {favicon} from "../favicon.ico"
+import { AppBar, Toolbar,Typography } from "@mui/material"
 
 export default function Header(){
     return <>
-    <AppBar position='sticky' sx={{width: '100%', borderRadius: 1}}>
-        <Toolbar>
-            <favicon/>
+        <Toolbar position='sticky' sx={{ borderRadius: 1, backgroundColor: 'blue' }}>
+            <Typography color='white'>123</Typography>
         </Toolbar>    
-    </AppBar>
 </>
 }
